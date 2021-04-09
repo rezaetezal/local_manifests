@@ -3,7 +3,6 @@
     <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
     <remove-project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
     <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
-    <remove-project name="LineageOS/android_frameworks_opt_telephony" />
     <remove-project name="LineageOS/android_vendor_codeaurora_telephony" />
     <remove-project name="LineageOS/android_hardware_qcom_sdm845_display" />
     <remove-project name="LineageOS/android_external_exfatprogs" />
