@@ -4,6 +4,7 @@
     <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
     <remote name="NXP" fetch="https://github.com/NXP/" />
 
+    <project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="master" />
     <project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="master" />
     <project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="master" />
     <project path="device/sony/pdx206" name="device-sony-pdx206" groups="device" remote="sony" revision="master" />
